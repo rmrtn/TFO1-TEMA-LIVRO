@@ -1,1 +1,17 @@
-# livro
+proposta livro
+PÚBLICO ALVO
+
+Será um site feito especificamente para leitores que queiram comprar livros baratos.
+
+ FUNCIONALIDADE
+
+Caso você tenha livros na sua prateleira que você já leu e esteja só ocupando espaço, você terá a opção de colocá-los no site nas opções de troca e venda e outras pessoas que se interessem pelo seu livro podem comprar ou trocar com você. 
+Será um site seguro , para que você não leve golpes ao comprar ou trocar seu livro, a pessoa terá que fazer um cadastro dela com dados pessoais e que possibilitaram a encontrá-la caso ocorra uma fraude.
+O estilo será como em uma rede social, onde terá o seu perfil com os livros que você publicou, terá como visualizar os perfis de outros usuários, e um feed separado onde você poderá ver livros anunciados por quem você segue, e no outro livros que você adicionou na sua biblioteca, o espaço biblioteca será destinado a livros que você tem vontade de ler e ficará lá marcado, pois, caso alguém publique aquele livro ele apareça na sua aba de indicados e você possa comprá-lo ou trocá-lo.
+ Também terá a opção de busca , na qual possa procurar pelo título do livro, nome de um autor e irá aparecer suas obras, ou procurar por um gênero literário que você goste e irá aparecer nas opções anunciadas no momento.
+
+
+
+PROBLEMA A SER SOLUCIONADO
+Irá dar uma finalidade a um livro que estava parado na estante e não tinha mais um uso, e ajudar pessoas com baixa condições possa ter a possibilidade de leitura, também caso a pessoa queira economizar ou apenas não queira gastar tanto dinheiro com livros.
+
